@@ -1,0 +1,11 @@
+# Excluding Node Modules
+/frontend/node_modules
+/backend/node_modules
+/cloudfunction/node_modules
+
+# Excluding Google API Keys
+/backend/key.json
+/cloudfunction/key.json
+
+# Excluding MacOS files
+.DS_Store
